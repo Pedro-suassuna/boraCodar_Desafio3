@@ -32,6 +32,6 @@ O objetivo do projeto 3 era de construir uma página que permitisse ao usuário 
 <br>
 
 ## 🔖 Layout
-Layout base para o projeto -> [🖥️](https://www.figma.com/file/RBxXoPVI76kTQzV14dkrqg/%23boraCodar---Desafio-3-(Community)?node-id=0%3A1&t=UC6CdQUqMdHFC0rI-0).
-<br>
+Layout base para o projeto -> [🖥️](https://pedro-suassuna.github.io/boraCodar_Desafio3/).
+</br>
 <i>OBS:</i> É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
